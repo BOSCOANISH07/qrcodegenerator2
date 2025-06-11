@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "238824266076",
+    "firebase_url": "https://qrcodegenerator-e1e80-default-rtdb.firebaseio.com",
+    "project_id": "qrcodegenerator-e1e80",
+    "storage_bucket": "qrcodegenerator-e1e80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238824266076:android:001df5b0bdf32286340999",
+        "android_client_info": {
+          "package_name": "com.example.qrcodegenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCX6GbN6Xde_3lZCXuRTsU6C1-hXzo08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
